@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Spencer Ofwiti!
-##### *Software Engineer*
+###### *Software Engineer*
 
 A Software Engineer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript technologies and Machine Learning. Professional experience working with Angular, Flask and GitHub Actions. 
 
