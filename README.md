@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Spencer Ofwiti!
-###### *Software Engineer*
+##### *Software Engineer*
 
 A Software Engineer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript technologies and Machine Learning. Professional experience working with Angular, Flask and GitHub Actions. 
 
@@ -11,7 +11,7 @@ A Software Engineer with industry experience building web application used by th
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/spencer-ofwiti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SpencerOfwiti) 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://catalins.tech) -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg' alt='website' height='40'>](https://catalins.tech)
 
 
 ### My GitHub stats
