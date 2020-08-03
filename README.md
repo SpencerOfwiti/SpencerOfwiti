@@ -19,6 +19,12 @@ My stack is as follows:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SpencerOfwiti&show_icons=true&count_private=true)
 
+<a href="https://github.com/SpencerOfwiti/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&theme=radical&hide=glsl,python" />
+</a>
+
+
 <!--
 **SpencerOfwiti/SpencerOfwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
