@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Spencer Ofwiti! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Spencer Ofwiti! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="30px">
 ###### *Software Engineer*
 
 A Software Engineer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript technologies and Machine Learning. Professional experience working with Angular, Flask and GitHub Actions. 
