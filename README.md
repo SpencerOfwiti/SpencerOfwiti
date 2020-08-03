@@ -16,8 +16,8 @@ My stack is as follows:
 
 
 ### My GitHub stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SpencerOfwiti&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&show_icons=true&count_private=true)
 
 <!--
 **SpencerOfwiti/SpencerOfwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
