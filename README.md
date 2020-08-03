@@ -16,13 +16,8 @@ My stack is as follows:
 
 
 ### My GitHub stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&count_private=true&hide=html)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SpencerOfwiti&show_icons=true&count_private=true)
-
-<a href="https://github.com/SpencerOfwiti/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&theme=radical&hide=glsl,python" />
-</a>
 
 
 <!--
