@@ -18,7 +18,7 @@ My stack is as follows:
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/spencer-ofwiti/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SpencerOfwiti) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg' alt='email' height='40'>](mailto:maxspencer56@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:maxspencer56@gmail.com)
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/cloud/mail.svg' alt='website' height='40'>](https://catalins.tech) -->
 
 
