@@ -3,13 +3,13 @@
 ###### *Software Engineer*
 
 
-A Software Engineer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript. 
+A Software Engineer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, C#, Cloud Computing, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python, Typescript and C#. 
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, SASS, Vanilla JavaScript, Typescript, Angular
-* **Backend**: Python, NodeJS, Django, Flask, ExpressJS, Docker
+* **Backend**: Python, C#, NodeJS, .NET, Django, Flask, ExpressJS, Docker
 * **Data Science**: Data Mining, Exploratory Data Analysis, Machine Learning, Data Visualization
-* **Cloud Computing**: Linux, Google Cloud Platform
+* **Cloud Computing**: Microsoft Azure, Linux, Google Cloud Platform
 * **CI/CD**: Gitlab CI/CD, GitHub Actions, TravisCI 
 
 
