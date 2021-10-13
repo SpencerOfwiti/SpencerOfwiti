@@ -13,11 +13,14 @@ My stack is as follows:
 * **CI/CD**: Gitlab CI/CD, GitHub Actions, TravisCI 
 
 
-🔭 I’m currently working on Community Inclusive Currencies running on the BlockChain network.
+🔭 I’m currently working on Cloud Services on Azure and Community Inclusive Currencies running on the BlockChain network.
 
-🌱 I’m currently learning about cryptographic systems and their emergent use-cases.
+🌱 I’m currently learning about software reliability and cryptographic systems and their emergent use-cases.
 
 ### You can also find me on
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='website' height='40'>](https://about.me/spencerofwiti)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/spencer-ofwiti/) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/spencerofwiti)
@@ -27,7 +30,6 @@ My stack is as follows:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:maxspencer56@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='email' height='40'>](https://www.npmjs.com/~spencerofwiti)
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/cloud/mail.svg' alt='website' height='40'>](https://catalins.tech) -->
 
 
 ### My GitHub stats
