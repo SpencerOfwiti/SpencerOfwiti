@@ -33,7 +33,7 @@ My stack is as follows:
 
 
 ### My GitHub stats
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="SpencerOfwiti's github stats" src="https://github-readme-stats.vercel.app/api?username=SpencerOfwiti&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerOfwiti&hide=html,css&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="SpencerOfwiti's github stats" src="https://github-readme-stats.vercel.app/api?username=SpencerOfwiti&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=SpencerOfwiti&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
 
