@@ -13,7 +13,7 @@ My stack is as follows:
 * **CI/CD**: Gitlab CI/CD, GitHub Actions, TravisCI 
 
 
-🔭 I’m currently working on Cloud Services on Azure and Community Inclusive Currencies running on the BlockChain network.
+🔭 I’m currently working on Cloud Services on Azure.
 
 🌱 I’m currently learning about software reliability and cryptographic systems and their emergent use-cases.
 
