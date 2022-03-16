@@ -10,7 +10,7 @@ My stack is as follows:
 * **Backend**: Python, C#, NodeJS, .NET, Django, Flask, ExpressJS, Docker
 * **Data Science**: Data Mining, Exploratory Data Analysis, Machine Learning, Data Visualization
 * **Cloud Computing**: Microsoft Azure, Linux, Google Cloud Platform
-* **CI/CD**: Gitlab CI/CD, GitHub Actions, TravisCI 
+* **CI/CD**: Jenkins, Gitlab CI/CD, GitHub Actions, TravisCI 
 
 
 🔭 I’m currently working on Cloud Services on Azure.
