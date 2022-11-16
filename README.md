@@ -27,7 +27,7 @@ My stack is as follows:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SpencerOfwiti) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:maxspencer56@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:ofwitispencer@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='email' height='40'>](https://www.npmjs.com/~spencerofwiti)
 
